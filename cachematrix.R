@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your functions do
-## The functions below 
+## The functions below will help create a matrix that has a given set of properties, and resolve
+## a problem, namely: inverts the matrix. Second it caches the results to allow an easier retrieval
+## of the result.
 
 ## Comment
 ## The first function allows to give certain properties to an object. Those properties permits the 
